@@ -1,4 +1,4 @@
-### Learning to Decode Linear Codes Using Deep Learning
+### Neural Network with Belief Propagation
 
 **写在前面：**
 

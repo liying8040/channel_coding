@@ -15,7 +15,6 @@ The length of codeword is fixed at 64800 bits based on DVB-S.2 Standard. By chan
 
 
 
+#### Neural_Network_with_BP
 
-
-
-
+* This project is a implementation of the paper "Learning to Decode Linear Codes Using Deep Learning".
